@@ -17,7 +17,7 @@ Hi, I'm Aleksandar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gi
 :computer: About Me:
 --------------------
 
-<p>Hello, my name is Aleksandar Tanchev. I'm from Bulgaria. I'm a Software Developer proficient in Java and CPP. Aside from programming I do enjoy playing video games.</p>
+<p>Hello, my name is Aleksandar Tanchev. I'm from Bulgaria. I'm a Java Developer. Aside from programming I do enjoy playing video games.</p>
 <p>Currently I'm learning Spring/Spring boot, Java Swing and Kotlin.</p>
 
   * * *
