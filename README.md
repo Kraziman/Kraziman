@@ -57,11 +57,11 @@ Hello, my name is Aleksandar Tanchev. I'm a Java Developer from Bulgaria. Aside 
 ## :fire: My Stats
 
 <a href="https://git.io/streak-stats">
-  <img align="start" src="http://github-readme-streak-stats.herokuapp.com?user=kraziman&theme=tokyonight-duo&hide_border=true&date_format=%5BY%20%5DM%20j" />
+  <img align="start" src="https://streak-stats.demolab.com?user=kraziman&theme=tokyonight-duo&hide_border=true&date_format=%5BY%20%5DM%20j" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats-h9ef-git-master-r-mishev.vercel.app/api/top-langs/?username=kraziman&langs_count=8&layout=compact&theme=tokyonight" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kraziman&langs_count=8&layout=compact&theme=tokyonight" />
 </a>
 
 <div align="center">
